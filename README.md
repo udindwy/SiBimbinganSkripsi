@@ -30,7 +30,7 @@ SiBimbinganSkripsi is a web application designed to monitor final assignments at
 11. Log in using the email (admin@gmail.com) and password (password).
 
 ## Contribution
-If you wish to contribute, please submit a pull request. Suggestions and ideas from the community are greatly appreciated to improve this application.
+If you wish to contribute to this project, please submit a pull request. I welcome suggestions and improvements from the community.
 
 ## Source
 The original repository can be found on [GitHub](https://github.com/restumahesa26/si_bimbingan_skripsi.git).
